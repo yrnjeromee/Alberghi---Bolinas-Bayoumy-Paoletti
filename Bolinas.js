@@ -96,7 +96,7 @@ const scarica = () => {
   
   const tabella = document.getElementById('table');
   let lista = [];
-  const myToken = '1d4744d3-cd6c-41a9-8ece-f5e071a27cfd'; // token ottenuto via mail
+  const myToken = '3f69d78a-4667-4c9a-a383-1ef9fafccc56'; // token ottenuto via mail
   const myKey = 'Albergo'; // sostituire con chiave di propria preferenza
   const form = createForm(document.getElementById('form'));
   const funzione = gestioneTabella();
